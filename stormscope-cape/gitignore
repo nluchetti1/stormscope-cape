@@ -1,6 +1,0 @@
-outputs/*.nc
-outputs/*.png
-__pycache__/
-*.pyc
-.venv/
-e2s-cache/
